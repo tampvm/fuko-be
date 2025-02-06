@@ -11,7 +11,7 @@ FukoNet là một nền tảng mạng xã hội cho phép người dùng đăng 
 - **📸 Đăng tải và chia sẻ hình ảnh, video**
 - **💬 Bình luận và tương tác với bài viết**
 - **👍 Thích và chia sẻ nội dung của người dùng khác**
-- **👥 Kết bạn, theo dõi và nhắn tin trực ti**
+- **👥 Kết bạn, theo dõi và nhắn tin trực tiếp**
 - **🔔 Nhận thông báo về hoạt động của bạn bè**
 - **🔍 Tìm kiếm người dùng và nội dung**
 - **🛍️ Hỗ trợ mua hàng và bán hàng trực tuyến**
